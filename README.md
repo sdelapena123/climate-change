@@ -4,7 +4,7 @@ This project is a simple webpage designed to provide information about the impac
 Project Structure
 * index.html: This is the main HTML file that contains the structure of the webpage, including headings, paragraphs, images, links, and sections about the impact of CO2 on climate change.
 
-*style.css: This CSS file provides the styling and layout for the webpage. It uses a mobile-first approach and includes media queries for responsiveness across different devices.
+* style.css: This CSS file provides the styling and layout for the webpage. It uses a mobile-first approach and includes media queries for responsiveness across different devices.
 
 ## Key Features
 ## HTML
