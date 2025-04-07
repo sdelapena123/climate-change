@@ -21,7 +21,7 @@ Custom styles are used for headings, paragraphs, images, navigation bars, and fo
 
 The design is mobile-first, with styles optimized for smaller screens and scaling up for larger screens.
 
-##🚀 Features:
+## 🚀 Features:
 * Mobile-First Design: The layout and content adjust to fit mobile screens first, with additional tweaks for tablet and desktop devices.
 
 * Responsive Media Queries: The webpage content adjusts based on screen size, ensuring that the design looks good on phones, tablets, and desktops.
