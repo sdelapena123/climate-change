@@ -33,11 +33,11 @@ The design is mobile-first, with styles optimized for smaller screens and scalin
 
 
 ## How to Use
-Open the webpage: Simply open the index.html file in a web browser to view the webpage.
+1. Open the webpage: Simply open the index.html file in a web browser to view the webpage.
 
-Explore the content: The page contains information about the impact of CO2 on various aspects of the climate, including images and resources for further reading.
+2. Explore the content: The page contains information about the impact of CO2 on various aspects of the climate, including images and resources for further reading.
 
-Interact with links: You can click on the links to learn more about each topic, such as CO2's effect on global warming or rising sea levels.
+3. Interact with links: You can click on the links to learn more about each topic, such as CO2's effect on global warming or rising sea levels.
 
 
 ## Files Included
