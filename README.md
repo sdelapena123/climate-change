@@ -8,9 +8,9 @@ Project Structure
 
 ## 🔑 Key Features
 ## HTML
-*The webpage includes several sections with headings, descriptions, and images.
-*It provides key information about CO2's role in climate change, focusing on various aspects such as fossil fuels, extreme weather, sea levels, glaciers, and marine life.
-*The page also features relevant links to external resources for further reading.
+* The webpage includes several sections with headings, descriptions, and images.
+* It provides key information about CO2's role in climate change, focusing on various aspects such as fossil fuels, extreme weather, sea levels, glaciers, and marine life.
+* The page also features relevant links to external resources for further reading.
 
 ## CSS
 The styles are applied to ensure readability and a clean layout.
