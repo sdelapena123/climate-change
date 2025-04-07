@@ -6,7 +6,7 @@ Project Structure
 
 * style.css: This CSS file provides the styling and layout for the webpage. It uses a mobile-first approach and includes media queries for responsiveness across different devices.
 
-## Key Features
+## 🔑 Key Features
 ## HTML
 *The webpage includes several sections with headings, descriptions, and images.
 *It provides key information about CO2's role in climate change, focusing on various aspects such as fossil fuels, extreme weather, sea levels, glaciers, and marine life.
@@ -31,7 +31,7 @@ The design is mobile-first, with styles optimized for smaller screens and scalin
 * Footer: The footer contains social media icons and relevant links for further engagement.
 
 
-## How to Use
+## 🤔 How to Use
 1. Open the webpage: Simply open the index.html file in a web browser to view the webpage.
 
 2. Explore the content: The page contains information about the impact of CO2 on various aspects of the climate, including images and resources for further reading.
@@ -39,7 +39,7 @@ The design is mobile-first, with styles optimized for smaller screens and scalin
 3. Interact with links: You can click on the links to learn more about each topic, such as CO2's effect on global warming or rising sea levels.
 
 
-## Files Included
+## 📁 Files Included
 * index.html: The main HTML file containing the webpage content.
 * style.css: The stylesheet for the webpage, which contains the CSS rules for layout, fonts, colors, and responsiveness.
 * Other images used as infographics.
