@@ -2,7 +2,7 @@
 ## Overview
 This project is a simple webpage designed to provide information about the impact of carbon dioxide (CO2) on climate change. The webpage highlights various effects of CO2, including fossil fuel usage, extreme weather events, rising sea levels, melting glaciers, and harm to marine life. The page is designed to be mobile-friendly and responsive, adjusting to various screen sizes, from mobile to desktop.
 Project Structure
-* index.html: This is the main HTML file that contains the structure of the webpage, including headings, paragraphs, images, links, and sections about the impact of CO2 on climate change.
+* +index.html: This is the main HTML file that contains the structure of the webpage, including headings, paragraphs, images, links, and sections about the impact of CO2 on climate change.
 
 * style.css: This CSS file provides the styling and layout for the webpage. It uses a mobile-first approach and includes media queries for responsiveness across different devices.
 
