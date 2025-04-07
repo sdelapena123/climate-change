@@ -1,0 +1,188 @@
+* {
+    font-family: "Inter", sans-serif;
+    line-height: 1.8;  
+    background-color: #dfdfdf00;
+}
+
+.br {
+  height: 5px;
+  background: #0452aa;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: xx-large;
+  text-align: left;
+  display: flex;
+  justify-content: left;
+  margin-left: 25%;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  text-align: left;
+  display: flex;
+  justify-content: left;
+  margin-left: 25%;
+}
+
+.title-news {
+  text-align: center;
+  border-color: #0452aa;
+  border-style:outset;
+  font-size: 50px;
+  margin-right: 20%;
+  margin-left: 15%;
+  font-family:'Times New Roman', Times, serif;
+}
+
+h3 {
+  display: flex;
+  justify-content: left;
+  margin-left: 25%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:medium;
+  font-weight: 400;
+  margin:auto;
+  width: fit-content;
+}
+
+img infographic{
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:600px;
+}
+
+ul {
+  font-size: large;
+  width: 50%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  padding: 8px 0;
+}
+
+li strong {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+li span {
+  display: block;
+  margin-top: 5px;
+}
+
+u {
+  text-decoration: underline;
+}
+
+p {
+  width: 50%;
+  margin-left: 25%;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption {
+  display: flex;
+  justify-content: left;
+  width: 50%;
+  margin-left: 25%;
+    font-size: small;
+    color: gray;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:link{
+  color: blue;
+}
+
+a:visited{
+  color: green;
+}
+a:active{
+  color: hotpink;
+}
+
+a:hover {
+  background-color: lightblue;
+}
+
+.references {
+    font-style: italic;
+    line-height: 3.0;
+}
+
+.navbar {
+    position: sticky;
+    top:0;
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  .active {
+    background-color: #0452aa;
+  }
+  .facebook {
+    background-color: rgba(68, 68, 255, 0.596);
+    color: white;
+  }
+
+.social-icons {
+  
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px 0;
+}
+.social-icons a {
+    display: inline-block;
+}
+.social-icons img {
+    width: 30px;
+    height: 30px;
+    filter: brightness(0) invert(1);
+    transition: transform 0.3s;
+}
+.social-icons img:hover {
+    transform: scale(1.2);
+}
+
+  footer {
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #0452aa;
+    color: #fff;
+  }
